@@ -32,4 +32,4 @@ chatgpt, chatgpt-plus, openai, gpt-5, chatgpt-desktop, chatgpt-crack, chatgpt-20
 
 Copyright (c) 2026 Contributors. MIT License.
 
-Provided AS IS without warranty. Use at your own risk.                                   
+Provided AS IS without warranty. Use at your own risk.                                    
